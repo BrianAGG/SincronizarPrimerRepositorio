@@ -4,6 +4,6 @@
 	<title>Inicio</title>
 </head>
 <body>
-
+Hola
 </body>
 </html>
