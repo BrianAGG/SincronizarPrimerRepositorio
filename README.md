@@ -1,6 +1,5 @@
 ### Leeme
 
--Probemos que esto funciona:
 
 PARTICIPANTES HASTA EL MOMENTO:
 
