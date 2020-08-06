@@ -6,15 +6,6 @@ PARTICIPANTES HASTA EL MOMENTO:
 ->Juan Angel
 ->Brian Aarón
 
--Participantes confirmados hasta el momento:
-
-->Juan Angel
-->Brian Aaron
-
--Participantes confirmados hasta el momento:
-
-->Juan Angel
-->Brian Aaron
 
 Image:
 
