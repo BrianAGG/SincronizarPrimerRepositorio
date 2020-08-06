@@ -4,7 +4,7 @@
 	<title>Inicio</title>
 </head>
 <body>
-Hola
+Hola juan ya le cambie algo jejeje
 </body>
 </html>
 
