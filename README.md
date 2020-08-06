@@ -1,6 +1,11 @@
 ### Leeme
 
--Probemos que esto funciona
+-Probemos que esto funciona:
+
+PARTICIPANTES HASTA EL MOMENTO:
+
+->Juan Angel
+->Brian Aarón
 
 Image:
 
