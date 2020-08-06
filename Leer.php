@@ -1,3 +1,3 @@
 <?php 
-echo "Hola compañeros, espero puedan colaborar ";
+echo "Hola compañeros, espero puedan colaborar pronto";
  ?>
